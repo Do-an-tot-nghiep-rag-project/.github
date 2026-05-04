@@ -22,7 +22,7 @@ Người dùng gõ câu hỏi
     → QdrantService tìm top-K chunks liên quan nhất
     → ConfidenceCalculator đánh giá chất lượng kết quả
     → ChatContextBuilder xây dựng prompt với context
-    → AnswerGenerator sinh câu trả lời bằng LLM (Gemini Flash)
+    → AnswerGenerator sinh câu trả lời bằng LLM (Llama3.2:3b)
     → Streaming trả về frontend theo thời gian thực (SSE)
     → ConversationService lưu lịch sử hội thoại
 ```
