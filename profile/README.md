@@ -13,13 +13,13 @@ Hệ thống sử dụng kỹ thuật **RAG** — kết hợp tìm kiếm ngữ 
 | 🧠 **[sh.vectorindexing](https://github.com/Do-an-tot-nghiep-rag-project/sh.vectorindexing)** | ASP.NET Core 8, Qdrant, OLlama, Gemini AI | RAG pipeline & Chat AI backend |
 ---
 ## 📸 Screenshots
-<img width="1911" height="907" alt="Đăng nhập" src="https://github.com/user-attachments/assets/ad1978a2-ef80-4adf-82b0-397e6cb6b027" />
-<img width="1695" height="890" alt="Pending" src="https://github.com/user-attachments/assets/c14be0bd-b0b1-49c9-a989-69ad2d7a27cb" />
-<img width="1540" height="907" alt="Chat" src="https://github.com/user-attachments/assets/c69874be-92fd-4c8f-8aeb-49f5ce2cb9fc" />
-<img width="1897" height="912" alt="Dashboard" src="https://github.com/user-attachments/assets/79e2ebe2-980f-4675-87c6-add80cfe634e" />
-<img width="1878" height="902" alt="Thống kê 1" src="https://github.com/user-attachments/assets/6aaff7bb-8573-41b6-b94a-9e541fe229c4" />
-<img width="975" height="703" alt="Upload 2" src="https://github.com/user-attachments/assets/31f098ad-dde3-42f1-b1ca-6dacbb59d4e6" />
-<img width="1897" height="903" alt="Quản lý tài liệu 2" src="https://github.com/user-attachments/assets/8737a2da-501d-41f7-ac29-7348a2069688" />
+<img width="1911" height="907" alt="Đăng nhập" src="https://github.com/user-attachments/assets/ad1978a2-ef80-4adf-82b0-397e6cb6b027" style="width:66%"/>
+<img width="1695" height="890" alt="Pending" src="https://github.com/user-attachments/assets/c14be0bd-b0b1-49c9-a989-69ad2d7a27cb" style="width:66%"/>
+<img width="1540" height="907" alt="Chat" src="https://github.com/user-attachments/assets/c69874be-92fd-4c8f-8aeb-49f5ce2cb9fc" style="width:66%"/>
+<img width="1897" height="912" alt="Dashboard" src="https://github.com/user-attachments/assets/79e2ebe2-980f-4675-87c6-add80cfe634e" style="width:66%"/>
+<img width="1878" height="902" alt="Thống kê 1" src="https://github.com/user-attachments/assets/6aaff7bb-8573-41b6-b94a-9e541fe229c4" style="width:66%"/>
+<img width="975" height="703" alt="Upload 2" src="https://github.com/user-attachments/assets/31f098ad-dde3-42f1-b1ca-6dacbb59d4e6" style="width:66%"/>
+<img width="1897" height="903" alt="Quản lý tài liệu 2" src="https://github.com/user-attachments/assets/8737a2da-501d-41f7-ac29-7348a2069688" style="width:66%"/>
 
 
 
