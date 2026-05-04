@@ -8,9 +8,9 @@ Hệ thống sử dụng kỹ thuật **RAG** — kết hợp tìm kiếm ngữ 
 ## 📦 Cấu trúc tổ chức (3 Repositories để ở private chỉ member có quyền truy cập)
 | Repository | Công nghệ | Vai trò |
 |---|---|---|
-| 🖥️ **[crm-chatbot](https://github.com/your-org/crm-chatbot)** | Next.js 16, TypeScript, Firebase | Giao diện web người dùng & quản trị |
-| 🛡️ **[sh.crm.api](https://github.com/your-org/sh.crm.api)** | ASP.NET Core 8, PostgreSQL, Redis | Backend xác thực & quản lý Agent |
-| 🧠 **[sh.vectorindexing](https://github.com/your-org/sh.vectorindexing)** | ASP.NET Core 8, Qdrant, Gemini AI | RAG pipeline & Chat AI backend |
+| 🖥️ **[crm-chatbot](https://github.com/Do-an-tot-nghiep-rag-project/crm-chatbot)** | Next.js 16, TypeScript, Firebase | Giao diện web người dùng & quản trị |
+| 🛡️ **[sh.crm.api](https://github.com/Do-an-tot-nghiep-rag-project/sh.crm.api)** | ASP.NET Core 8, PostgreSQL, Redis | Backend xác thực & quản lý Agent |
+| 🧠 **[sh.vectorindexing](https://github.com/Do-an-tot-nghiep-rag-project/sh.vectorindexing)** | ASP.NET Core 8, Qdrant, OLlama, Gemini AI | RAG pipeline & Chat AI backend |
 ---
 ## 🔄 Luồng xử lý Chat (RAG Flow)
 ```
