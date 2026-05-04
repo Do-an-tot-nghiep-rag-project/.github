@@ -5,7 +5,7 @@
 Dự án xây dựng một nền tảng chatbot thông minh tích hợp vào hệ thống CRM, cho phép nhân viên hoặc khách hàng đặt câu hỏi bằng ngôn ngữ tự nhiên và nhận câu trả lời chính xác dựa trên kho tài liệu nội bộ (quy trình, chính sách, thông tin sản phẩm…).
 Hệ thống sử dụng kỹ thuật **RAG** — kết hợp tìm kiếm ngữ nghĩa (vector search) với mô hình ngôn ngữ lớn (LLM) — để đảm bảo câu trả lời luôn có cơ sở từ dữ liệu thực tế, tránh hiện tượng "hallucination" của AI.
 ---
-## 📦 Cấu trúc tổ chức (3 Repositories)
+## 📦 Cấu trúc tổ chức (3 Repositories để ở private chỉ member có quyền truy cập)
 | Repository | Công nghệ | Vai trò |
 |---|---|---|
 | 🖥️ **[crm-chatbot](https://github.com/your-org/crm-chatbot)** | Next.js 16, TypeScript, Firebase | Giao diện web người dùng & quản trị |
